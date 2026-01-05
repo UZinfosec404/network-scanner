@@ -1,5 +1,5 @@
 # Network Scanner (Linux)
-
+![Banner](banner.png)
 Bu loyiha Python va Scapy kutubxonasi yordamida yozilgan **oddiy tarmoq skaneri** hisoblanadi.  
 Dastur ARP so‘rovlari orqali lokal tarmoqdagi qurilmalarni aniqlaydi va ularning **IP** hamda **MAC address**larini ko‘rsatadi.
 
