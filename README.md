@@ -27,7 +27,10 @@ Dastur ARP so‘rovlari orqali lokal tarmoqdagi qurilmalarni aniqlaydi va ularni
 
 ```bash
 git clone https://github.com/USERNAME/network-scanner.git
-``` ```
-cd network-scanner ``` ```
-pip3 install scapy ``` ```
+```
+```
+cd network-scanner ```
+```
+pip3 install scapy ```
+```
 sudo python3 scanner.py -i 192.168.1.0/24 ```
